@@ -29,7 +29,7 @@ name: Create a new json file
 on:
   push:
     branches:
-      - "master"
+      - "main"
          # set this to the name of the container in the
                                                # containerDefinitions section of your task definition
 
