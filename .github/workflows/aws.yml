@@ -52,3 +52,4 @@ jobs:
       with:
         name: "task-definition.json"
         json: ${{ secrets.MY_JSON }}
+        dir : '/'
